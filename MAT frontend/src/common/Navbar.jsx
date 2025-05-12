@@ -164,7 +164,7 @@ const Navbar = () => {
                                 href="#"
                                 className="mr-4  cursor-pointer py-1.5 font-bold text-xl"
                             >
-                                INFO'DORE
+                               Municipal Asset Tracker
                             </Typography>
                         </Link>
                         <div className="flex items-center gap-4">
