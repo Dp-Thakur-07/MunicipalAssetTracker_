@@ -1,15 +1,14 @@
-# 🌟 Info'Dore Asset Solution 🌟
+# 🌟Municipal Asset Tracker🌟
 
-[infodore.vercel.app](https://infodore.vercel.app)
 
 ## 🚀 Introduction
 
-Info'Dore Asset Solution is a comprehensive asset management system tailored for municipal corporations. It aims to streamline the management of various municipal assets, including vehicles, buildings, and infrastructure. By leveraging advanced technologies, this solution enhances public safety, optimizes maintenance costs, and improves the quality of public services.
+Municipal Asset Tracker is a comprehensive asset management system tailored for municipal corporations. It aims to streamline the management of various municipal assets, including vehicles, buildings, and infrastructure. By leveraging advanced technologies, this solution enhances public safety, optimizes maintenance costs, and improves the quality of public services.
 
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React
-- **Deployed on**: Vercel
+
 
 ### 📦 Frontend Libraries
 
